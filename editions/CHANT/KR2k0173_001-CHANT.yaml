@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2k0173/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南康記南康縣有歸義山去縣七百里下有石城高數丈遠望嵯峨靈闕騰空故老謂之神闕
+  hash: sha256:61ad83978486a25b16010a27cee87b97ce5cfcef5b6bfadabf4614d29d2e983f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2k0173_CHANT_001-1a.1-h}
+metadata:
+  title: 南康記
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0173.xml
+hash: sha256:1ebab4b0d9c4b2243f112296be9f79e42065389ac5308f5c596da07a22f8088a
