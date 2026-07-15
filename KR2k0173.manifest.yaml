@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0173/v1
 canonical_location: https://kanripo.org/bkk/KR2k0173/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 南康記
   identifiers:
@@ -36,4 +36,4 @@ table_of_contents:
   label: 南康記
   type: section
   level: 1
-hash: sha256:743e19a0dff476b72c424e2fde796f68eed500431facbeda96469e031491bfb3
+hash: sha256:c583283c8bba92aaa3ad92a000bb8f01a544ccac79f06c508c04ddcf25dc0db8
